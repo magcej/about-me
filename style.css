@@ -1,23 +1,28 @@
 .wrapper {
-  background: url(images/background.jpg);
+  background: url(images/grass.jpg);
+  background-repeat: no-repeat;
   position: fixed;
   left: 0;
   right: 0;
   top: 0;
   bottom: 0;
+  background-size: cover;
 }
 
 .box {
   background: rgba(0, 0, 0, 0.3);
-  width: 600px;
-  height: 500px;
+  width: 500px;
+  height: 550px;
   border-radius: 10px;
   float: right;
   margin-top: 50px;
   margin-right: 50px;
+  padding: 10px;
 }
 
 .box h1 {
   color: white;
   font-family: 'Lobster', cursive;
+  font-size: 55px;
+  text-align: center;
 }
