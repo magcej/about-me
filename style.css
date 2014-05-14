@@ -41,6 +41,24 @@
 .icons {
   width: 100px;
   height: 50px;
-  bottom: 180px;
+  bottom: 210px;
+  right: 450px;
+  top: 350px;
   position: absolute;
+}
+
+.iconback {
+height: 1px;
+width: 1px;
+padding: 15px;
+color: white;
+background-color: #938EA3;
+border-radius: 50%;
+}
+
+
+div.iconback i {
+top: -4px;
+position: relative;
+left: -6px;
 }
