@@ -102,3 +102,18 @@ margin-top: 10px;
   margin-top: -75px;
 }
 
+.thumbup {
+  height: 35px;
+  width: 35px;
+  background-color: #938EA3;
+  border-radius: 5px;
+  margin-top: -25px;
+  margin-left: 15px;
+}
+
+.thumbupicon {
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+  margin-top: 4px;
+}
