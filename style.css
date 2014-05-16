@@ -117,3 +117,19 @@ margin-top: 10px;
   margin-left: 5px;
   margin-top: 4px;
 }
+
+.share {
+  height: 35px;
+  width: 35px;
+  background-color: #938EA3;
+  border-radius: 5px;
+  margin-left: 51px;
+  margin-top: -51px;
+}
+
+.shareicon {
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+  margin-top: 4px;
+}
