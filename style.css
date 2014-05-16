@@ -30,6 +30,7 @@
 .fa-heart {
   color: white;
 }
+
 .fa-location-arrow {
   color: white ;
 }
@@ -132,4 +133,22 @@ margin-top: 10px;
   width: 25px;
   margin-left: 5px;
   margin-top: 4px;
+}
+
+.emailme {
+  height: 35px;
+  width: 85px;
+  background-color: #938EA3;
+  border-radius: 5px;
+  margin-top: -51px;
+  margin-left: 87px;
+}
+
+.emailmeicon {
+  font-family: Consolas;
+  font-size: 16px;
+  text-align: center;
+  padding-left: 1px;
+  padding-top: 8px;
+
 }
