@@ -103,6 +103,23 @@ margin-top: 10px;
   margin-top: -75px;
 }
 
+.follow {
+  height: 30px;
+  width: 75px;
+  background-color: #938EA3;
+  border-radius: 5px;
+  margin-left: 210px;
+  margin-top: -92px;
+}
+
+.followicon {
+  font-family: Helvetica;
+  font-size: 16px;
+  text-align: center;
+  padding-left: 2px;
+  padding-top: 6px;
+}
+
 .thumbup {
   height: 35px;
   width: 35px;
@@ -145,7 +162,7 @@ margin-top: 10px;
 }
 
 .emailmeicon {
-  font-family: Consolas;
+  font-family: Helvetica;
   font-size: 16px;
   text-align: center;
   padding-left: 1px;
