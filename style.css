@@ -40,12 +40,8 @@
 }
 
 .icons {
-  width: 100px;
-  height: 50px;
-  bottom: 210px;
-  right: 450px;
-  top: 350px;
-  position: absolute;
+    position: relative;
+    margin-left: 15px;
 }
 
 .iconback {
@@ -55,13 +51,14 @@ padding: 15px;
 color: white;
 background-color: #938EA3;
 border-radius: 50%;
+    margin-bottom: 10px;
 }
 
 
 div.iconback i {
-top: -4px;
+top: -7px;
 position: relative;
-left: -6px;
+left: -7px;
 }
 
 .social {
@@ -118,7 +115,7 @@ margin-top: 10px;
   text-align: center;
   padding-left: 2px;
   padding-top: 6px;
-  color: black;
+
 }
 
 .thumbup {
@@ -169,4 +166,13 @@ margin-top: 10px;
   padding-left: 1px;
   padding-top: 8px;
 
+}
+
+.textarea {
+  color: white;
+  font-family: Helvetica;
+  font-size: 1em;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
 }
