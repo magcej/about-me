@@ -11,13 +11,7 @@
 
 .box {
   background: rgba(0, 0, 0, 0.3);
-  width: 500px;
-  height: 446px;
   border-radius: 10px;
-  float: right;
-  margin-top: 50px;
-  margin-right: 50px;
-  padding: 10px;
 }
 
 .box h1 {
@@ -51,7 +45,7 @@
 }
 
 .icons-item{
-  color: #fff;  
+  color: #fff;
 }
 
 .iconback {
@@ -74,12 +68,8 @@ left: -7px;
 
 .social {
   height: 50px;
-  width: 520px;
+
   background: rgba(0, 0, 0, 0.3);
-  margin-top: 518px;
-  margin-left: 822px;
-  margin-right: 58px;
-  margin-bottom: 50px;
   border-radius: 10px;
 }
 
@@ -186,4 +176,11 @@ margin-top: 10px;
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 10px;
+}
+
+.boxes {
+padding-top: 30px;
+height: 500px;
+
+
 }
