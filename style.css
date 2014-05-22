@@ -12,6 +12,7 @@
 .box {
   background: rgba(0, 0, 0, 0.3);
   border-radius: 10px;
+
 }
 
 .box h1 {
@@ -83,38 +84,38 @@ margin-top: 10px;
 .fb {
   height: 30px;
   width: 30px;
-  margin-left: 60px;
-  margin-top: -45px;
+
 }
 
 .pinterest {
   height: 30px;
   width: 30px;
-  margin-left: 110px;
-  margin-top: -60px;
+
 }
 
 .twitter {
   height: 30px;
   width: 30px;
-  margin-left: 160px;
-  margin-top: -75px;
+
 }
 
 .follow {
-  height: 30px;
-  width: 75px;
+  height: 20px;
+  width: 35px;
   background-color: #938EA3;
   border-radius: 5px;
-  margin-left: 210px;
-  margin-top: -92px;
+  margin-left: 70px;
+  margin-top: 10px;
+  padding-top: 3px;
+  padding-left: 10px;
+
 }
 
 .followicon {
   font-family: Helvetica;
   font-size: 16px;
   text-align: center;
-  padding-left: 2px;
+  padding-right: 6px;
   padding-top: 6px;
 
 }
@@ -179,8 +180,13 @@ margin-top: 10px;
 }
 
 .boxes {
-padding-top: 30px;
-height: 500px;
+margin-top: 60px;
+height: 4200px;
+width: 450px;
+margin-left: 800px;
 
+}
 
+.instagram, .fb, .pinterest, .twitter, .follow {
+padding-left: 33px;
 }
